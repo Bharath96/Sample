@@ -1,2 +1,2 @@
 # Sample
-Hi! Welcome TO GITHUB.
+Hi! Welcome TO GITHUB. GITHUB is a version management tool.
